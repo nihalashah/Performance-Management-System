@@ -1,7 +1,7 @@
 # Performance Management System
 
 This repository is for the information on a **Performance Management System** built to streamline and optimize employee performance evaluations and management within organizations. The system is designed for efficiency and scalability, offering features that allow HR teams and managers to easily track, evaluate, and improve employee performance.
-
+Please find the documentation containing full flow of the project and diagrams in the pdf attached.
 ## Features
 
 - **Employee Profiles**: Manage detailed profiles of employees, including their job roles, departments, and performance history.
